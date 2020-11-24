@@ -3,7 +3,7 @@
       {
         "name": "blog-server",
         "script": "npm",
-        "args": "develop"
+        "args": "start"
       }
     ]
   }

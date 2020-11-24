@@ -1,7 +1,7 @@
 {
     "apps": [
       {
-        "name": "blog-server",
+        "name": "BlogServer",
         "script": "npm",
         "args": "start"
       }
